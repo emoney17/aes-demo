@@ -2,7 +2,7 @@
 
 CC = g++
 SRC = *.cpp
-PROG = myprog.exe
+PROG = main.exe
 
 # Clean project and compile program
 build: clean $(PROG)
@@ -17,4 +17,4 @@ run: build
 
 # Compile the program from latest soucrce
 $(PROG): $(SRC)
-	$(CC) -I/usr/local/include $(SRC) /usr/local/lib/libcryptopp.a -o $(PROG)
+	$(CC) $(SRC) -I ./cryptopp ./cryptopp/libcryptopp.a -o $(PROG)
