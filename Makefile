@@ -2,7 +2,7 @@
 
 CC = g++
 SRC = *.cpp
-PROG = main.exe
+PROG = myprog
 
 # Clean project and compile program
 build: clean $(PROG)
