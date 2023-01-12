@@ -1,0 +1,3 @@
+[submodule "cryptopp"]
+	path = cryptopp
+	url = https://github.com/weidai11/cryptopp/tree/45de5c6ce52551cfb5a0625dc794c0f90f4bbcd1
