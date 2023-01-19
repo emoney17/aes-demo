@@ -9,10 +9,7 @@ For more info: github.com/weidai11/cryptopp
 ### Compile program
 go back and run ```make``` to compile myprog.cpp
 ### Run
-run myprog
-```
-./myprog
-```
+run ```./myprog```
 ### Example output
 ```
 $ ./myprog
