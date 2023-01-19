@@ -1,13 +1,16 @@
 ## Crypto++
 ### Build library
-cd into cryptopp directory and build/test the library
+Clone the repo and cd into cryptopp directory.
+
+Then build/test the library
 ```
+git clone github.com/emoney17/cryptopp-demo
 cd cryptopp 
 make static
 ```
 For more info: [Wiki](https://www.cryptopp.com/wiki/Linux#Build_and_Install_the_Library)
 ### Compile program
-go back and compile myprog.cpp
+Go back and compile myprog.cpp
 ```
 make
 ```
