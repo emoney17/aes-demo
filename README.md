@@ -1,18 +1,18 @@
 ## Crypto++
 ### Build library
 cd into cryptopp directory and build/test the library
-
 ```
 cd cryptopp 
 make static
 ```
-
 For more info: github.com/weidai11/cryptopp
 ### Compile program
-go back and run ```make` to compile myprog.cpp
+go back and run ```make``` to compile myprog.cpp
 ### Run
 run myprog
-```./myprog```
+```
+./myprog
+```
 ### Example output
 ```
 $ ./myprog
