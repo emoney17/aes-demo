@@ -2,16 +2,19 @@
 ### Build library
 cd into cryptopp directory and build/test the library
 ```
-cd cryptopp 
-make static
+$ cd cryptopp 
+$ make static
 ```
-For more info:
-[GITHUB](https://github.com/weidai11/cryptopp)
-[WIKI](https://www.cryptopp.com/wiki)
+For more info: [Wiki](https://www.cryptopp.com/wiki/Linux#Build_and_Install_the_Library)
 ### Compile program
-go back and run ```make``` to compile myprog.cpp
+go back and compile myprog.cpp
+```
+$ make
+```
 ### Run
-run ```./myprog```
+```
+$ ./myprog
+```
 ### Example output
 ```
 $ ./myprog
