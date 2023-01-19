@@ -5,14 +5,14 @@ SRC = *.cpp
 PROG = myprog
 
 # Clean project and compile program
-build: clean $(PROG)
+all: clean $(PROG)
 
 # Clean project by removing executable
 clean:
 	rm -f $(PROG)
 
 # Clean project, compile program, and run executable
-run: build
+run: all
 	 ./$(PROG)
 
 # Compile the program from latest soucrce
