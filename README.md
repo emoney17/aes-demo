@@ -6,8 +6,8 @@ cd cryptopp
 make static
 ```
 For more info:
-[github](github.com/weidai11/cryptopp)
-[wiki](https://www.cryptopp.com/wik)
+[Github](github.com/weidai11/cryptopp)
+[Wiki](https://www.cryptopp.com/wik)
 ### Compile program
 go back and run ```make``` to compile myprog.cpp
 ### Run
