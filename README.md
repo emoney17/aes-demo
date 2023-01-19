@@ -5,7 +5,9 @@ cd into cryptopp directory and build/test the library
 cd cryptopp 
 make static
 ```
-For more info: github.com/weidai11/cryptopp
+For more info:
+[github](github.com/weidai11/cryptopp)
+[wiki](https://www.cryptopp.com/wik)
 ### Compile program
 go back and run ```make``` to compile myprog.cpp
 ### Run
