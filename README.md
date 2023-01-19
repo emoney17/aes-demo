@@ -8,7 +8,7 @@ git clone https://github.com/emoney17/cryptopp-demo.git
 cd cryptopp-demo/cryptopp
 make static
 ```
-For more info: [Wiki](https://www.cryptopp.com/wiki/Linux#Build_and_Install_the_Library)
+For more info on building the library: [Wiki](https://www.cryptopp.com/wiki/Linux#Build_and_Install_the_Library)
 ### Compile program
 Go back and compile myprog.cpp
 ```
