@@ -5,7 +5,7 @@ Clone the repo and cd into cryptopp directory.
 Then build/test the library
 ```
 git clone https://github.com/emoney17/cryptopp-demo.git
-cd cryptopp 
+cd cryptopp-demo/cryptopp
 make static
 ```
 For more info: [Wiki](https://www.cryptopp.com/wiki/Linux#Build_and_Install_the_Library)
