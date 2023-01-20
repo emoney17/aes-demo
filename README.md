@@ -12,7 +12,7 @@ For more info on building the library: [Wiki](https://www.cryptopp.com/wiki/Linu
 ### Compile program
 Go back and compile myprog.cpp
 ```
-make
+g++ myprog.cpp -I ./cryptopp/ ./cryptopp/libcryptopp.a -o myprog
 ```
 ### Run
 ```
